@@ -1,0 +1,5 @@
+Cada arranque se hace en un terminal diferente:
+
+	Arrancar mongo: mongod (en windows)
+	Arrancar el servidor: npm run dev
+	Arrancar el frontend: ng serve
